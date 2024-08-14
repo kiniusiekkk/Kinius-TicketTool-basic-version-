@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "@discordjs/voice": "^0.17.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.93",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.4"
+  },
+  "name": "kinius_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kinius": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "KINIUS",
+  "license": "MIT",
+  "description": "FREE BOCIK BY DEVILHUB"
+}

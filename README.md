@@ -1,0 +1,11 @@
+# MORDKO OGÓLNIE TO TAK PROSTA OBSŁUGA
+
+
+KOMENDY:
+```
+1. npm install
+2. W PLIKU ".env" WYPEŁNIJ TO:
+TOKEN=TWOJ_TOKEN
+GUILD_ID=TWOJE_ID_SERWERA
+3. npm run kinius
+```
